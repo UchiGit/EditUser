@@ -9,6 +9,8 @@ class edit : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_edit)
 
+//jiodacoaidjvo;a
+
 
         //iojf;qjfio;e
 //        var bmp = BitmapFactory.decodeResource(resources,R.drawable.pass_visible)
