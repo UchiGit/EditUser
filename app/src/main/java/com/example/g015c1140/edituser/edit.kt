@@ -12,6 +12,7 @@ class edit : AppCompatActivity() {
 //jiodacoaidjvo;a
 
 
+            //shfueiwhqfewqhfijoefwq
         //iojf;qjfio;e
 //        var bmp = BitmapFactory.decodeResource(resources,R.drawable.pass_visible)
 //        bmp =  Bitmap.createScaledBitmap(bmp,420,150,false)
